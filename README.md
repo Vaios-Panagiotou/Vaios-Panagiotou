@@ -1,14 +1,15 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=F79B43&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Vaios!;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4500&color=F79B43&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Vaios!;Building+clean%2C+practical+ML+systems" alt="Intro animation" />
 </p>
 
 <p align="center">
   <a href="https://github.com/alphawastaken"><img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" alt="GitHub"/></a>
+  <a href="https://vaios-panagiotou.github.io"><img src="https://img.shields.io/badge/Website-vaios--panagiotou.github.io-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a>
   <a href="mailto:vaios.panagiotoy@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email"/></a>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="animation" width="400"/>
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="subtle animation" width="360"/>
 </p>
 
 <img src="https://raw.githubusercontent.com/i-am-a-developer-now/i-am-a-developer-now/main/resources/images/rainbow_bar.gif" alt="divider" width="100%"/>
@@ -16,10 +17,10 @@
 <h3 align="center">🧠 About Me</h3>
 
 <p align="center">
-  <a href="https://github.com/alphawastaken">
+  <a href="https://vaios-panagiotou.github.io">
     <img
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=22&pause=1000&color=9400D3&center=true&vCenter=true&width=800&lines=Computer+Science+Student+at+University+of+Athens;Passionate+about+AI+and+Machine+Learning;Experienced+in+NLP+and+Sentiment+Analysis;Strong+Python+Developer+with+C+and+C%2B%2B"
-      alt="Typing SVG"
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&pause=1200&color=6A5ACD&center=true&vCenter=true&width=800&lines=CS+Student+%40+UoA;Practical+AI%2FML+projects;NLP+%26+Sentiment+Analysis;Python+%7C+C+%7C+C%2B%2B"
+      alt="About animation"
     />
   </a>
 </p>
@@ -53,6 +54,20 @@
 - **[C Code Formatter](https://github.com/Alphawastaken/c-code-formatter)** - C application for formatting and beautifying source code
 - **[Robot Coins](https://github.com/Alphawastaken/robot-coins)** - Algorithmic solution for robot coin collection problem
 - **[MIPS Study Pack](https://github.com/Alphawastaken/Mips-study-pack)** - Assembly language and computer architecture studies
+
+### 🧩 Skills by Project
+
+#### AI/ML
+- **Search & RL (Pacman):** state-space search, adversarial agents, Q-learning
+- **NLP (Sentiment Deep):** CNN/RNN classifiers, data preprocessing, metrics
+- **Transformers (BERT/DistilBERT):** fine-tuning, tokenization, experiment tracking
+- **Embeddings (Word2Vec + FFNN):** feature engineering, vector semantics, model evaluation
+
+#### Systems & Algorithms
+- **C Code Formatter:** parsing, AST-like tokenization, I/O and CLI tooling
+- **Robot Coins:** dynamic programming, greedy heuristics, complexity analysis
+- **MIPS Study Pack:** low-level programming, registers, instruction pipelines
+
 
 <img src="https://raw.githubusercontent.com/i-am-a-developer-now/i-am-a-developer-now/main/resources/images/rainbow_bar.gif" alt="divider" width="100%"/>
 

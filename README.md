@@ -18,7 +18,7 @@
 <p align="center">
   <a href="https://github.com/alphawastaken">
     <img
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9400D3&center=true&vCenter=true&width=600&lines=Computer+Science+Student+at+University+of+Athens;Passionate+about+AI+and+Machine+Learning;Experienced+in+NLP+and+Sentiment+Analysis;Strong+Python+Developer+with+C+and+C%2B%2B"
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=22&pause=1000&color=9400D3&center=true&vCenter=true&width=800&lines=Computer+Science+Student+at+University+of+Athens;Passionate+about+AI+and+Machine+Learning;Experienced+in+NLP+and+Sentiment+Analysis;Strong+Python+Developer+with+C+and+C%2B%2B"
       alt="Typing SVG"
     />
   </a>

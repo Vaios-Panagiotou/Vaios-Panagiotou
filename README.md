@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4500&color=F79B43&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Vaios!;Building+clean%2C+practical+ML+systems" alt="Intro animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4500&color=F79B43&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Vaios!" alt="Intro animation" />
 </p>
 
 <p align="center">

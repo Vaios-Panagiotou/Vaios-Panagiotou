@@ -45,16 +45,22 @@
 ### 🌟 Featured Work & Skills
 
 #### 🤖 AI & Machine Learning
-- **[Berkeley AI Pacman](https://github.com/Alphawastaken/berkeley-ai-pacman-projects)** — AI algorithms for the classic game.
-  ↳ `State-space Search` `Adversarial Agents` `Q-learning`
-- **[BERT Sentiment Classifiers](https://github.com/Alphawastaken/tweet-sentiment-classifiers-bert-distilbert)** — Transformer models for tweet sentiment analysis.
-  ↳ `Fine-tuning` `Tokenization` `Experiment Tracking`
+- **[Berkeley AI Pacman](https://github.com/Vaios-Panagiotou/berkeley-ai-pacman-projects)** — AI algorithms for the classic game.
+  ↳ `A* Search` `Adversarial Search (Minimax)` `CSP` `RL`
+- **[BERT Sentiment Classifiers](https://github.com/Vaios-Panagiotou/tweet-sentiment-classifiers-bert-distilbert)** — Transformer models for tweet sentiment analysis.
+  ↳ `PyTorch` `HuggingFace` `Fine-tuning` `t-SNE`
 - **[NLP Sentiment Analysis](https://github.com/Alphawastaken/sentiment-nlp-deep)** — Deep learning approaches for sentiment classification.
   ↳ `CNN/RNN` `Data Preprocessing` `Metrics`
 - **[Word2Vec Sentiment](https://github.com/Alphawastaken/word2vec-ffnn-sentiment-nlp)** — Word embeddings with neural networks for NLP.
   ↳ `Feature Engineering` `Vector Semantics` `Model Evaluation`
 
+#### 🌐 Web Development
+- **[Care4Pets](https://github.com/Vaios-Panagiotou/Care4Pets)** — Pet health & veterinary clinic management dashboard.
+  ↳ `React 18` `Material UI` `Context API` `JSON Server`
+
 #### 💻 Systems & Algorithms
+- **[Vamana Indexing](https://github.com/Vaios-Panagiotou/vamana-indexing)** — Graph-based approximate nearest neighbor search.
+  ↳ `C++` `Graph Algorithms` `Multi-threading` `Binary I/O`
 - **[C Code Formatter](https://github.com/Alphawastaken/c-code-formatter)** — C application for formatting and beautifying source code.
   ↳ `Parsing` `AST-like Tokenization` `CLI Tooling`
 - **[Robot Coins](https://github.com/Alphawastaken/robot-coins)** — Algorithmic solution for the robot coin collection problem.

@@ -42,32 +42,24 @@
 
 <img src="https://raw.githubusercontent.com/i-am-a-developer-now/i-am-a-developer-now/main/resources/images/rainbow_bar.gif" alt="divider" width="100%"/>
 
-### 🌟 Featured Projects
+### 🌟 Featured Work & Skills
 
-#### 🤖 AI &amp; Machine Learning
-- **[Berkeley AI Pacman](https://github.com/Alphawastaken/berkeley-ai-pacman-projects)** - AI algorithms for Pacman game (search, multi-agent, reinforcement learning)
-- **[NLP Sentiment Analysis](https://github.com/Alphawastaken/sentiment-nlp-deep)** - Deep learning approaches for sentiment classification
-- **[BERT Sentiment Classifiers](https://github.com/Alphawastaken/tweet-sentiment-classifiers-bert-distilbert)** - Transformer models for tweet sentiment analysis
-- **[Word2Vec Sentiment](https://github.com/Alphawastaken/word2vec-ffnn-sentiment-nlp)** - Word embeddings with neural networks for NLP
+#### 🤖 AI & Machine Learning
+- **[Berkeley AI Pacman](https://github.com/Alphawastaken/berkeley-ai-pacman-projects)** — AI algorithms for the classic game.
+  ↳ `State-space Search` `Adversarial Agents` `Q-learning`
+- **[BERT Sentiment Classifiers](https://github.com/Alphawastaken/tweet-sentiment-classifiers-bert-distilbert)** — Transformer models for tweet sentiment analysis.
+  ↳ `Fine-tuning` `Tokenization` `Experiment Tracking`
+- **[NLP Sentiment Analysis](https://github.com/Alphawastaken/sentiment-nlp-deep)** — Deep learning approaches for sentiment classification.
+  ↳ `CNN/RNN` `Data Preprocessing` `Metrics`
+- **[Word2Vec Sentiment](https://github.com/Alphawastaken/word2vec-ffnn-sentiment-nlp)** — Word embeddings with neural networks for NLP.
+  ↳ `Feature Engineering` `Vector Semantics` `Model Evaluation`
 
-#### 💻 Systems &amp; Algorithms
-- **[C Code Formatter](https://github.com/Alphawastaken/c-code-formatter)** - C application for formatting and beautifying source code
-- **[Robot Coins](https://github.com/Alphawastaken/robot-coins)** - Algorithmic solution for robot coin collection problem
-- **[MIPS Study Pack](https://github.com/Alphawastaken/Mips-study-pack)** - Assembly language and computer architecture studies
-
-### 🧩 Skills by Project
-
-#### AI/ML
-- **Search & RL (Pacman):** state-space search, adversarial agents, Q-learning
-- **NLP (Sentiment Deep):** CNN/RNN classifiers, data preprocessing, metrics
-- **Transformers (BERT/DistilBERT):** fine-tuning, tokenization, experiment tracking
-- **Embeddings (Word2Vec + FFNN):** feature engineering, vector semantics, model evaluation
-
-#### Systems & Algorithms
-- **C Code Formatter:** parsing, AST-like tokenization, I/O and CLI tooling
-- **Robot Coins:** dynamic programming, greedy heuristics, complexity analysis
-- **MIPS Study Pack:** low-level programming, registers, instruction pipelines
-
-
+#### 💻 Systems & Algorithms
+- **[C Code Formatter](https://github.com/Alphawastaken/c-code-formatter)** — C application for formatting and beautifying source code.
+  ↳ `Parsing` `AST-like Tokenization` `CLI Tooling`
+- **[Robot Coins](https://github.com/Alphawastaken/robot-coins)** — Algorithmic solution for the robot coin collection problem.
+  ↳ `Dynamic Programming` `Greedy Heuristics` `Complexity Analysis`
+- **[MIPS Study Pack](https://github.com/Alphawastaken/Mips-study-pack)** — Assembly language and computer architecture studies.
+  ↳ `Low-level Programming` `Registers` `Pipelines`
 <img src="https://raw.githubusercontent.com/i-am-a-developer-now/i-am-a-developer-now/main/resources/images/rainbow_bar.gif" alt="divider" width="100%"/>
 

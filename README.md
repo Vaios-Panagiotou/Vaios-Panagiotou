@@ -61,6 +61,8 @@
 #### 💻 Systems & Algorithms
 - **[Vamana Indexing](https://github.com/Vaios-Panagiotou/vamana-indexing)** — Graph-based approximate nearest neighbor search.
   ↳ `C++` `Graph Algorithms` `Multi-threading` `Binary I/O`
+- **[Vampires vs Werewolves](https://github.com/Vaios-Panagiotou/Vampires-vs-Werewolves)** — Turn-based grid game with a Day-Night cycle and GUI.
+  ↳ `C++` `SDL2` `OOP` `Game Loop`
 - **[C Code Formatter](https://github.com/Alphawastaken/c-code-formatter)** — C application for formatting and beautifying source code.
   ↳ `Parsing` `AST-like Tokenization` `CLI Tooling`
 - **[Robot Coins](https://github.com/Alphawastaken/robot-coins)** — Algorithmic solution for the robot coin collection problem.

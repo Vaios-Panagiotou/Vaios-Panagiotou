@@ -5,6 +5,7 @@
 <p align="center">
   <a href="https://github.com/alphawastaken"><img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" alt="GitHub"/></a>
   <a href="https://vaios-panagiotou.github.io"><img src="https://img.shields.io/badge/Website-vaios--panagiotou.github.io-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a>
+  <a href="https://www.linkedin.com/in/vaios-panagiotou-505470255/"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:vaios.panagiotoy@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email"/></a>
 </p>
 
@@ -70,4 +71,3 @@
 - **[MIPS Study Pack](https://github.com/Alphawastaken/Mips-study-pack)** — Assembly language and computer architecture studies.
   ↳ `Low-level Programming` `Registers` `Pipelines`
 <img src="https://raw.githubusercontent.com/i-am-a-developer-now/i-am-a-developer-now/main/resources/images/rainbow_bar.gif" alt="divider" width="100%"/>
-
